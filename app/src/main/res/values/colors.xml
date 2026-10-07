@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cream_background">#FFF8F5F0</color>
+    <color name="primary_orange">#FFF95336</color>
+    <color name="primary_orange_pressed">#FFE0442B</color>
+    <color name="text_dark">#FF1A1A1A</color>
+    <color name="text_gray">#FF888888</color>
+    <color name="chip_selected_bg">#FFF95336</color>
+    <color name="chip_unselected_bg">#FFFFFFFF</color>
+    <color name="chip_unselected_text">#FF1A1A1A</color>
+    <color name="chip_selected_text">#FFFFFFFF</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="divider_color">#FFEFEFEF</color>
+</resources>
